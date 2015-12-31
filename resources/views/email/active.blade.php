@@ -1,0 +1,1 @@
+E行动激活计划进行中：<a href="{{ URL('active/email/'. $token ) }}">激活成为E型人</a>
